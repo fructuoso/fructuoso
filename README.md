@@ -5,7 +5,8 @@ var developer = {
     "name": "Victor Fructuoso",
     "profiles": {
         "linkedIn": "www.linkedin.com/in/victorfructuoso",
-        "hackerRank": "https://www.hackerrank.com/fructuoso"
+        "hackerRank": "https://www.hackerrank.com/fructuoso",
+        "instagram": "https://www.instagram.com/fructuoso.dev"
     },
     "homepage": "https://www.fructuoso.com.br"
 }
