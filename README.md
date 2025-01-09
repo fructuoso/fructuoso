@@ -8,7 +8,7 @@ var developer = {
         "hackerRank": "https://www.hackerrank.com/fructuoso",
         "instagram": "https://www.instagram.com/fructuoso.dev"
     },
-    "homepage": "https://www.fructuoso.com.br"
+    "homepage": "https://fructuoso.github.io"
 }
 console.log(developer)
 ```
